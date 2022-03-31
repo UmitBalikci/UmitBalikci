@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ümit BALIKCI
-- 👀 I’m interested in HTML5, CSS3, JAVAS ..
+- 👀 I’m interested in HTML5, CSS3, JAVASCRIPT
 - 🌱 I’m currently learning JAVASCRIPT
 - 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/umitbalikci/)

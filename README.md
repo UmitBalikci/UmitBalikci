@@ -11,9 +11,27 @@
 </p>
 UmitBalikci/UmitBalikci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
+I'm backend developer
 --->
 # 💫 About Me:
-I'm backend developer
+<h1 align="center">Hi 👋, I'm Ümit BALIKCI</h1>
+<h3 align="center">A passionate full-stack developer from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umitbalikci&label=Profile%20views&color=0e75b6&style=flat" alt="umitbalikci" /> </p>
+
+- 🔭 I’m currently working on [HepsiApiProject](https://github.com/UmitBalikci/HepsiApiProject)
+
+- 🌱 I’m currently learning **.net core, angular**
+
+- 👨‍💻 All of my projects are available at [https://github.com/UmitBalikci](https://github.com/UmitBalikci)
+
+- 💬 Ask me about **C#, .net core, js**
+
+- 📫 How to reach me **u.balikci.bm@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 ## 🌐 Socials:
